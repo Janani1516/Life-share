@@ -9,6 +9,6 @@ Session and Cookies: To enhance user experience and security, the system leverag
 Advanced Search Functionality: The platform provides advanced search functionality using filters to help hospitals find donors based on specific criteria such as blood group, tissue compatibility, organ type, and affiliated hospital.
 Seamless CRUD Operations: Organ Donation offers seamless CRUD (Create, Read, Update, Delete) operations, enabling easy management of donor and hospital information.
 # Technology Used
-Front-end: HTML, CSS, JavaScript
-Back-end: PHP
-Database: MySQL
+- Front-end: HTML, CSS, JavaScript
+- Back-end: PHP
+- Database: MySQL
