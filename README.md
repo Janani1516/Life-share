@@ -1,4 +1,8 @@
 # Life-share
+Developed a web-based organ donation platform using HTML, CSS, JavaScript, PHP, and MySQL to support donor and doctor
+registrations and streamline donor-recipient matching.
+Integrated educational content and real-life stories to raise awareness and encourage organ donor sign-ups, addressing the
+critical donor shortage.
 
 # Introduction
 Organ Donation is a modern management system that aims to connect hospitals and donors under the same shade. The system is designed to streamline the process of organ donation, making it easier for hospitals to find suitable donors and for donors to offer their organs to those in need. This full-stack website is built using PHP, JavaScript, MySQL, and Bootstrap, ensuring a user-friendly and responsive interface.
